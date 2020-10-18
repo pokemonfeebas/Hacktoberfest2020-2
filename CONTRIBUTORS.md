@@ -254,3 +254,7 @@
  - Place: Kerala,india
  - Bio: Student
  - Github: [farzinafa](https://github.com/farzinafa)
+#### Name: [Akshat Sharma](https://github.com/pokemonfeebas)
+ - Place: Himachal Pradesh, India
+ - Bio: Student
+ - Github: [Akshat Sharma](https://github.com/pokemonfeebas)
